@@ -41,8 +41,8 @@ filippo.io/edwards25519 v1.0.0-beta.2 h1:/BZRNzm8N4K4eWfK28dL4yescorxtO7YG1yun8f
 filippo.io/edwards25519 v1.0.0-beta.2/go.mod h1:X+pm78QAUPtFLi1z9PYIlS/bdDnvbCOGKtZ+ACWEf7o=
 github.com/99designs/keyring v1.1.6 h1:kVDC2uCgVwecxCk+9zoCt2uEL6dt+dfVzMvGgnVcIuM=
 github.com/99designs/keyring v1.1.6/go.mod h1:16e0ds7LGQQcT59QqkTg72Hh5ShM51Byv5PEmW6uoRU=
-github.com/Assetsadapter/terra-adapter v1.0.2 h1:2MMlTC/i93geecm9WG8jLEVy1QnfU9hPN3qjrsKUMbY=
-github.com/Assetsadapter/terra-adapter v1.0.2/go.mod h1:Q+1selNbTV+pHkROl1o6dcKWSoU90EQtHu8mvqhbRfc=
+github.com/Assetsadapter/terra-adapter v1.0.3 h1:ITRJis4UVUryJBJKnB1GgqVMvzblVgrtkD/HBbztTCo=
+github.com/Assetsadapter/terra-adapter v1.0.3/go.mod h1:Q+1selNbTV+pHkROl1o6dcKWSoU90EQtHu8mvqhbRfc=
 github.com/Azure/azure-pipeline-go v0.2.1/go.mod h1:UGSo8XybXnIGZ3epmeBw7Jdz+HiUVpqIlpz/HKHylF4=
 github.com/Azure/azure-pipeline-go v0.2.2/go.mod h1:4rQ/NZncSvGqNkkOsNpOU1tgoNuIlp9AfUH5G1tvCHc=
 github.com/Azure/azure-storage-blob-go v0.7.0/go.mod h1:f9YQKtsG1nMisotuTPpO0tjNuEjKRYAcJU8/ydDI++4=
