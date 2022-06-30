@@ -3,7 +3,7 @@ module github.com/Assetsadapter/terra-classic-adapter
 go 1.17
 
 require (
-	github.com/Assetsadapter/terra-adapter v1.0.3
+	github.com/Assetsadapter/terra-adapter v1.0.4
 	github.com/astaxie/beego v1.12.0
 	github.com/blocktree/cosmos-adapter v1.1.12
 	github.com/blocktree/go-owcrypt v1.1.3
